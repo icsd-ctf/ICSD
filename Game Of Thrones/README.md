@@ -35,20 +35,21 @@ The fact that five teams were unable to score any points can be primarily attrib
 
 
 # Some moments from the competition
-![BAH_7833-min](https://github.com/NotokDay/ICSD/assets/115024808/fa85fe5b-1b6d-43a7-9aa7-98a07c38a7a5)
+
+![BAH_7833-min](https://github.com/icsd-ctf/ICSD/assets/147237916/df9af7f6-d4a5-44f6-9cca-9372b5b05eea)
 ___
-![BAH_7813](https://github.com/NotokDay/ICSD/assets/115024808/8a17e7b2-a72d-4db7-af07-4bc0990f038b)
+![BAH_7813](https://github.com/icsd-ctf/ICSD/assets/147237916/3ff3b80e-477f-45a7-861c-466afbcf4e53)
 ___
-![photo_5249282619873546109_y](https://github.com/NotokDay/ICSD/assets/115024808/6411fa2d-f4bb-4508-a908-d718eab84acf)
+![BAH_7830](https://github.com/icsd-ctf/ICSD/assets/147237916/8a920361-5c47-4d98-a204-261eb71f87c2)
 ___
-![0W1A1434](https://github.com/NotokDay/ICSD/assets/115024808/ddff6716-b967-438a-bc29-ce7f85a88884)
+![BAH_7822](https://github.com/icsd-ctf/ICSD/assets/147237916/0fe1dbe7-0f48-44a2-9f5f-0dfd4cc9e2cc)
 ___
-![BAH_7814](https://github.com/NotokDay/ICSD/assets/115024808/de1ae2cc-9729-4b0e-a6b3-59a999ee94a1)
+![photo_5249282619873546109_y](https://github.com/icsd-ctf/ICSD/assets/147237916/cdd58273-ac0a-4e07-b1d3-224877e32813)
 ___
-![BAH_7820](https://github.com/NotokDay/ICSD/assets/115024808/bf2825fb-5fdf-4313-b418-def915b15228)
+![photo_5249282619873546110_y](https://github.com/icsd-ctf/ICSD/assets/147237916/725f2e85-2bca-4b9d-bc92-a8a67c0c4a74)
 ___
-![BAH_7822](https://github.com/NotokDay/ICSD/assets/115024808/91796163-fb4e-4aed-b93d-6a86166ffc4d)
+![0W1A1434](https://github.com/icsd-ctf/ICSD/assets/147237916/67f58365-9e1b-4f9e-aa4a-f60b40757342)
 ___
-![BAH_7830](https://github.com/NotokDay/ICSD/assets/115024808/fc487ab8-2435-4f7a-97b4-c3422e1dcaab)
+![BAH_7814](https://github.com/icsd-ctf/ICSD/assets/147237916/e5794b09-4e51-4f2e-8d1e-77ca0c698f09)
 ___
-![photo_5249282619873546121_y(1)](https://github.com/NotokDay/ICSD/assets/115024808/68ef86cc-6afc-4b37-a065-a156b722381c)
+![BAH_7820](https://github.com/icsd-ctf/ICSD/assets/147237916/a97a0654-4de7-4924-9405-19702406fd85)
