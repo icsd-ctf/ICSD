@@ -2,7 +2,6 @@
 
 1. Use the installation link to download the .ova file.
 2. Import the image file to VMware using File -> Open
-3. 
 > [!WARNING]  
 > The images are not supported by virtualbox. 
 
@@ -42,7 +41,7 @@ root@blitz:~# exit
 logout
 Connection to 192.168.100.131 closed.
 ```
-7. If something goes wrong, use the credentials provided below to access the machine.
+6. If something goes wrong, use the credentials provided below to access the machine.
 
 # Credentials
 ```
