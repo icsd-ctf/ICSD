@@ -1,9 +1,7 @@
 # Setup
 
 1. Use the installation link to download the .ova file.
-2. Import the image file to VMware using File -> Open 
-
-![image](https://github.com/NotokDay/ICSD/assets/115024808/cfec5a4d-b2b7-4b50-8a19-4a653f92195e)
+2. Import the image file to VMware using File -> Open
 
 > [!WARNING]  
 > The images are not supported by virtualbox. 
@@ -24,7 +22,7 @@ Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
 4 packets received by filter, 0 packets dropped by kernel
 Ending arp-scan 1.10.0: 256 hosts scanned in 2.303 seconds (111.16 hosts/sec). 4 responded
 ```
-7. If something goes wrong, use the credentials provided below to access the machine.
+6. If something goes wrong, use the credentials provided below to access the machine.
 
 # Credentials
 ```
