@@ -1,10 +1,8 @@
 # Setup
 
 1. Use the installation link to download the .ova file.
-2. Import the image file to VMware using File -> Open 
-
-![image](https://github.com/NotokDay/ICSD/assets/115024808/cfec5a4d-b2b7-4b50-8a19-4a653f92195e)
-
+2. Import the image file to VMware using File -> Open
+3. 
 > [!WARNING]  
 > The images are not supported by virtualbox. 
 
