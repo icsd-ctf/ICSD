@@ -8,9 +8,9 @@
 > [!WARNING]  
 > The images are not supported by virtualbox. 
 
-1. Choose a Virtual Machine name and location for the new VM.
-2. The default Network Interface is configured as NAT. If not, please do so.
-3. You can find IP address of the machine using arp-scan in your kali machine.
+3. Choose a Virtual Machine name and location for the new VM.
+4. The default Network Interface is configured as NAT. If not, please do so.
+5. You can find IP address of the machine using arp-scan in your kali machine.
 ```
 ┌──(kali㉿kali)-[~]
 └─$ sudo arp-scan -l
@@ -55,7 +55,7 @@ Last login: Thu Sep 14 21:15:45 2023 from 10.1.3.1
 root@bytescribe-virtual-machine:~# 
 
 ```
-7. If something goes wrong, use the credentials provided below to access the machine.
+6. If something goes wrong, use the credentials provided below to access the machine.
 
 # Credentials
 ```

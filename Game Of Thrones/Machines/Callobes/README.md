@@ -54,7 +54,7 @@ root@shimishao:~#
 ```
 
 
-7. If something goes wrong, use the credentials provided below to access the machine.
+6. If something goes wrong, use the credentials provided below to access the machine.
 
 # Credentials
 ```
